@@ -1,0 +1,21 @@
+{
+    "Token": "",
+    "GuildID": 0000,
+    "ModID": 0000,
+    "MemberID": 0000,
+    "GodToken": 0000,
+    "Jail": {
+        "JailVC": 000,
+        "Jailer": 0000,
+        "Prisioner": 0000,
+        "TimeJailed": 20
+    },
+    "JailRemoveRoles": {
+        "0": 0000,
+        "1": 0000,
+        "2": 0000
+    },
+    "NickToken": {
+        "NickerRole": 0000
+    }
+}
