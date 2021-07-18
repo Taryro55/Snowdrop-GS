@@ -1,0 +1,21 @@
+{
+    "Token": "ODMyNDAyMDg4NDExMzk4MTg2.YHjQ2w.1Sx4E_Q-NMhf_uuUcPyC4FKPT5Q",
+    "GuildID": 661257524653195289,
+    "ModID": 687376984443060229,
+    "MemberID": 700463151178711131,
+    "GodToken": 866077567039701012,
+    "Jail": {
+        "JailVC": 862329989628952596,
+        "Jailer": 861996789791850496,
+        "Prisioner": 862009325475725322,
+        "TimeJailed": 20
+    },
+    "JailRemoveRoles": {
+        "0": 700463151178711131,
+        "1": 719668819903381546,
+        "2": 687381651960889494
+    },
+    "NickToken": {
+        "NickerRole": 864928959102713856
+    }
+}
